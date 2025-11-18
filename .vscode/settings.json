@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "personal_finance",
+            "database": "personal_finance",
+            "username": "pguser",
+            "password": "pgpass"
+        }
+    ]
+}

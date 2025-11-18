@@ -1,0 +1,1 @@
+This project is a fully-structured Personal Finance Management Database built using PostgreSQL and Docker. The goal of the project is to learn, practice, and apply real-world SQL skills by designing a system that can track income, expenses, budgets, recurring payments, and financial analytics — all through structured SQL queries.
